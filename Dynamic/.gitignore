@@ -75,4 +75,7 @@ Assets/Dark_Fantasy
 Assets/Dark_Fantasy.meta
 
 # Rider directory
-.idea
+.idea/
+
+# MMD Assets
+/[Aa]ssets/MMD*
