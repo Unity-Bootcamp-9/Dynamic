@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641275, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 30592709}
   - component: {fileID: 30592710}
   m_Layer: 0
-  m_Name: Character
+  m_Name: Scene03_Character
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -424,7 +424,7 @@ GameObject:
   - component: {fileID: 178650378}
   - component: {fileID: 178650377}
   m_Layer: 0
-  m_Name: Virtual Camera (6)
+  m_Name: Scene03_Virtual Camera (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -496,7 +496,7 @@ GameObject:
   - component: {fileID: 189487833}
   - component: {fileID: 189487832}
   m_Layer: 0
-  m_Name: Virtual Camera (9)
+  m_Name: Scene03_Virtual Camera (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -907,7 +907,7 @@ GameObject:
   - component: {fileID: 477745105}
   - component: {fileID: 477745104}
   m_Layer: 0
-  m_Name: Virtual Camera (5)
+  m_Name: Scene03_Virtual Camera (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -980,7 +980,7 @@ GameObject:
   - component: {fileID: 656421548}
   - component: {fileID: 656421550}
   m_Layer: 0
-  m_Name: Virtual Camera
+  m_Name: Scene03_Virtual Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1167,7 +1167,7 @@ GameObject:
   - component: {fileID: 719905339}
   - component: {fileID: 719905338}
   m_Layer: 0
-  m_Name: Virtual Camera (2)
+  m_Name: Scene03_Virtual Camera (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1220,7 +1220,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 719905337}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.32773817, y: 0.6265682, z: -0.32773814, w: 0.62656826}
+  m_LocalRotation: {x: 0.32773814, y: 0.6265682, z: -0.32773817, w: 0.6265682}
   m_LocalPosition: {x: 120, y: 15.180253, z: 46.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1242,7 +1242,7 @@ GameObject:
   - component: {fileID: 963194229}
   - component: {fileID: 963194230}
   m_Layer: 0
-  m_Name: Main Camera
+  m_Name: Scene03_Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1315,8 +1315,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.024240602, y: 0.68540335, z: -0.02283773, w: 0.7274016}
-  m_LocalPosition: {x: 110.367546, y: 14.165666, z: 46.15}
+  m_LocalRotation: {x: 0.08275005, y: -0.71091735, z: 0.084863976, w: 0.693215}
+  m_LocalPosition: {x: 77.47089, y: 22.112555, z: 46.614765}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1850,7 +1850,7 @@ GameObject:
   - component: {fileID: 1339913027}
   - component: {fileID: 1339913026}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Scene03_Capsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1955,7 +1955,7 @@ GameObject:
   - component: {fileID: 1415642764}
   - component: {fileID: 1415642763}
   m_Layer: 0
-  m_Name: Virtual Camera (8)
+  m_Name: Scene03_Virtual Camera (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2140,7 +2140,7 @@ GameObject:
   - component: {fileID: 1544598536}
   - component: {fileID: 1544598535}
   m_Layer: 0
-  m_Name: Virtual Camera (7)
+  m_Name: Scene03_Virtual Camera (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2212,7 +2212,7 @@ GameObject:
   - component: {fileID: 1900939925}
   - component: {fileID: 1900939924}
   m_Layer: 0
-  m_Name: Virtual Camera (3)
+  m_Name: Scene03_Virtual Camera (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2265,7 +2265,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1900939923}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.031477332, y: -0.7036637, z: -0.031233892, w: 0.7091481}
+  m_LocalRotation: {x: -0.031477317, y: -0.7036637, z: -0.031233877, w: 0.7091481}
   m_LocalPosition: {x: 118, y: 17, z: 46.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2284,7 +2284,7 @@ GameObject:
   - component: {fileID: 1957339339}
   - component: {fileID: 1957339338}
   m_Layer: 0
-  m_Name: Virtual Camera (4)
+  m_Name: Scene03_Virtual Camera (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2349,16 +2349,16 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 963194228}
-  - {fileID: 705507995}
-  - {fileID: 30592708}
-  - {fileID: 656421549}
-  - {fileID: 719905339}
-  - {fileID: 1900939925}
-  - {fileID: 1957339339}
   - {fileID: 477745105}
-  - {fileID: 178650378}
+  - {fileID: 705507995}
+  - {fileID: 189487833}
   - {fileID: 1544598536}
   - {fileID: 1415642764}
-  - {fileID: 189487833}
+  - {fileID: 178650378}
+  - {fileID: 656421549}
+  - {fileID: 1900939925}
   - {fileID: 1339913029}
+  - {fileID: 719905339}
+  - {fileID: 30592708}
+  - {fileID: 1957339339}
+  - {fileID: 963194228}
