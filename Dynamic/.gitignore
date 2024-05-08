@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 Assets/Dark_Fantasy
 Assets/Dark_Fantasy.meta
+
+# Rider directory
+.idea
