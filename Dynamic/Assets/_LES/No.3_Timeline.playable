@@ -103,7 +103,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera
+    m_DisplayName: Scene03_Virtual Camera
   - m_Version: 1
     m_Start: 2.5
     m_ClipIn: 0
@@ -136,7 +136,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (2)
+    m_DisplayName: Scene03_Virtual Camera (2)
   - m_Version: 1
     m_Start: 3.15
     m_ClipIn: 0
@@ -187,7 +187,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (3)
+    m_DisplayName: Scene03_Virtual Camera (3)
   - m_Version: 1
     m_Start: 6
     m_ClipIn: 0
@@ -238,7 +238,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (4)
+    m_DisplayName: Scene03_Virtual Camera (4)
   - m_Version: 1
     m_Start: 7
     m_ClipIn: 0
@@ -271,7 +271,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (5)
+    m_DisplayName: Scene03_Virtual Camera (5)
   - m_Version: 1
     m_Start: 8
     m_ClipIn: 0
@@ -322,7 +322,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (6)
+    m_DisplayName: Scene03_Virtual Camera (6)
   - m_Version: 1
     m_Start: 9
     m_ClipIn: 0
@@ -391,7 +391,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (7)
+    m_DisplayName: Scene03_Virtual Camera (7)
   - m_Version: 1
     m_Start: 10
     m_ClipIn: 0
@@ -460,7 +460,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (8)
+    m_DisplayName: Scene03_Virtual Camera (8)
   - m_Version: 1
     m_Start: 11
     m_ClipIn: 0
@@ -529,7 +529,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (9)
+    m_DisplayName: Scene03_Virtual Camera (9)
   m_Markers:
     m_Objects: []
 --- !u!114 &11400000
